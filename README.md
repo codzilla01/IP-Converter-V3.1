@@ -24,7 +24,7 @@ Advanced tool for DDOS attacks with an easy -to -use graphical interface, with a
 * Make sure to install Python on your device
 * Copy the tool file to a folder on your device
 * Install the required libraries ( pip install tkinter )
-* Will the tool using the order: ( python ddos_tool.py )
+* Will the tool using the order ( python ddos_tool.py )
 
 ## 🛠 Use the tool
 * You now how 😉

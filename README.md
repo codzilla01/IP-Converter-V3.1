@@ -1,10 +1,34 @@
-# 👋 Hi I'm The Developer Mohamed Elnil
-Web developer interested in software and tools development. A multi-skilled technical professional with 10 years of experience in computer support, 4 years in IT, and 2 years in web development. I am proficient in website management using technologies such as HTML, CSS, JavaScript, and Python. I have strong technical problem-solving skills.
+# 💣 DDoS - GodzillaStore
+Advanced tool for DDOS attacks with an easy -to -use graphical interface, with an integrated protection system that guarantees the operation of the tool only on licensed devices.
 
-## 🛠 
-- Programming languages : HTML, CSS3, JavaScript, PHP, Python 
-- Software tools        : Vercel, Git, VS Code, API, Bootstrap
-- Frameworks            : React, Figma, MITRE ATT&CK®
+* The tool is associated with only one device.
+* Using on multiple devices requires purchasing additional licenses.
+* Any attempt to distribute the tool will automatically disable.
 
-## 📫 
+# ⚠️ Operating requirements
+* Windows operating system
+* Python 3.6 or higher
+
+# ❕❔ Required libraries
+* Text
+* Copy
+* Download
+* tkinter
+* Socket
+* Threading
+* UUID
+* Hashlib
+* Json
+
+# 🧰 Installation
+* Make sure to install Python on your device
+* Copy the tool file to a folder on your device
+* Install the required libraries ( pip install tkinter )
+* Will the tool using the order: ( python ddos_tool.py )
+
+## 🛠 Use the tool
+* You now how 😉
+
+## 📫 Buy 💰
 - Gmail: mohamedelnil11@gmail.com
+- Telegram: @godzillastore

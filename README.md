@@ -1,4 +1,4 @@
-# 💣 DDoS - GodzillaStore
+# 💣 DDoS - Ragimat
 Advanced tool for DDOS attacks with an easy -to -use graphical interface, with an integrated protection system that guarantees the operation of the tool only on licensed devices.
 
 * The tool is associated with only one device.
@@ -30,5 +30,4 @@ Advanced tool for DDOS attacks with an easy -to -use graphical interface, with a
 * You now how 😉
 
 ## 📫 Buy 💰
-- Gmail: mohamedelnil11@gmail.com
 - Telegram: @godzillastore

@@ -9,17 +9,6 @@ Advanced tool for DDOS attacks with an easy -to -use graphical interface, with a
 * Windows operating system
 * Python 3.6 or higher
 
-# ❕❔ Required libraries
-* Text
-* Copy
-* Download
-* tkinter
-* Socket
-* Threading
-* UUID
-* Hashlib
-* Json
-
 # 🧰 Installation
 * Make sure to install Python on your device
 * Copy the tool file to a folder on your device

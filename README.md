@@ -1,4 +1,4 @@
-# 💣 DDoS - Ragimat
+# 💣 D.DoS - Ragimat
 Advanced tool for DDOS attacks with an easy -to -use graphical interface, with an integrated protection system that guarantees the operation of the tool only on licensed devices.
 
 * The tool is associated with only one device.
